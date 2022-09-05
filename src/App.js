@@ -82,7 +82,7 @@ setper(pxper * 6.25)
           <a className="nav-link active" aria-current="page" href="https://www.facebook.com/profile.php?id=100003236430949" target='blank'><i class="fa-brands fa-facebook fa-2x"></i></a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="www.linkedin.com/in/sandeep-gupta-a4a45b209" target='blank'><i class="fa-brands fa-linkedin fa-2x" target='blank'></i></a>
+          <a className="nav-link" href="www.linkedin.com/in/sandeep-gupta-a4a45b209" target='blank'><i class="fa-brands fa-linkedin fa-2x"></i></a>
         </li>
         <li className="nav-item">
           <a className="nav-link" href="https://www.instagram.com/_sandeepgupta_0/" target='blank'><i class="fa-brands fa-instagram fa-2x"></i></a>
